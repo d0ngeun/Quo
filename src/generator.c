@@ -1,7 +1,4 @@
-#include "scanner.h"
-#include "AST.h"
-#include "generator.h"
-#include "data.h"
+#include "../headers/common.h"
 
 /*
     ASM Compiler

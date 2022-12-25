@@ -2,6 +2,7 @@
     "files.associations": {
         "stdlib.h": "c",
         "errno.h": "c",
-        "data.h": "c"
+        "data.h": "c",
+        "common.h": "c"
     }
 }

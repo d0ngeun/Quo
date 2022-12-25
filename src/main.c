@@ -1,10 +1,4 @@
-#include "scanner.h"
-#include "AST.h"
-#include "generator.h"
-#include "statements.h"
-#define extern_
-    #include "data.h"
-#undef extern_
+#include "../headers/common.h"
 #include <errno.h>
 
 static void init() {
@@ -41,8 +35,7 @@ void main(int argc, char* argv[]) {
 
     fclose(Outfile);
 
-    system("cc -o out out.s");
-    system("./out");
+    system("cc -o out.exe out.s");
 
     exit(0);
 }

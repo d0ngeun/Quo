@@ -1,7 +1,4 @@
-#include "scanner.h"
-#include "AST.h"
-#include "data.h"
-
+#include "../headers/common.h"
 /*
     PRATT Parser
 */

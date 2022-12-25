@@ -1,8 +1,4 @@
-#include "scanner.h"
-#include "AST.h"
-#include "generator.h"
-#include "statements.h"
-#include "data.h"
+#include "../headers/common.h"
 
 void match(int t, char* what) {
     if (Token.token == t) {

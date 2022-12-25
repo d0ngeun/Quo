@@ -1,6 +1,4 @@
-#include "AST.h"
-#include "scanner.h"
-#include "data.h"
+#include "../headers/common.h"
 
 /*
     Abstract Syntax Tree
