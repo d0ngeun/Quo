@@ -3,9 +3,9 @@
 
 A programming language designed with mathematical usage in mind. Still in the early stages of development 
 but a brief idea of what this language will have is:  
--a rich math library with calculus, probability, premade fibonacci functions, etc.
--a visualization library for statistics and differential equations and the like.
--An easy and fun to use syntax
+-a rich math library with calculus, probability, premade fibonacci functions, etc.  
+-a visualization library for statistics and differential equations and the like.  
+-An easy and fun to use syntax  
 
 ## Lessons Learned
 
