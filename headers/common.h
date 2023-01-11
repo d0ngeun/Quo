@@ -5,6 +5,7 @@
 #include "generator.h"
 #include "scanner.h"
 #include "statements.h"
+#include "symbols.h"
 #define extern_
     #include "data.h"
 #undef extern_

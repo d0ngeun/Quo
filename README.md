@@ -7,7 +7,10 @@ but a brief idea of what this language will have is:
 -a visualization library for statistics and differential equations and the like.  
 -An easy and fun to use syntax  
 
-## Lessons Learned
+# Features
+
+- Assembly code generator
+- Statements
 
 ## Roadmap
 
@@ -17,13 +20,11 @@ but a brief idea of what this language will have is:
 
 ## Usage/Examples
 
-write 2 * 2;
+```bash
+    write 2 * 2;
 
-#prints 4 to terminal
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
+    #prints 4 to terminal
+```
 
 ## Installation
 
