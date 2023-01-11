@@ -21,9 +21,7 @@ but a brief idea of what this language will have is:
 ## Usage/Examples
 
 ```bash
-    write 2 * 2;
-
-    #prints 4 to terminal
+    write 2 * 2; #prints 4 to terminal
 ```
 
 ## Installation
